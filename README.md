@@ -1,0 +1,4 @@
+datatablesTags
+==============
+
+Datatables abstraction plugin 
